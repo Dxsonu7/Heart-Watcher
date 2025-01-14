@@ -1,5 +1,5 @@
 # Heart-Watcher
-
+AI model to identify biggest indicator of heart disease.
 
 ## Team
 - Sonu Gupta
